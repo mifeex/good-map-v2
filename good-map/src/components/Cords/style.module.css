@@ -1,0 +1,8 @@
+  .cords {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .cords div {
+    width: 150px;
+  }

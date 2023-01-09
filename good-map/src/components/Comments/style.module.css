@@ -1,0 +1,26 @@
+.container {
+    height: 150px;
+    margin: 20px 0;
+    overflow-y: scroll;
+}
+
+.container h3 {
+    text-align: center;
+}
+
+.param {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 0 10px;
+    padding: 10px 15px;
+    text-align: left;
+    background: #fff;
+    border-radius: 8px;
+}
+
+.param span {
+    font-size: 12px;
+    color: #999;
+    text-align: right;
+}
